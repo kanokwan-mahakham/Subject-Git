@@ -9,5 +9,5 @@ jobs:
 
     steps:
     
-      - name: Print
+      - name: test
         run: echo "test"
